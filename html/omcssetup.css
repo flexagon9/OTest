@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/**ADFFaces_Skin_File / DO NOT REMOVE**/
+@namespace af "http://xmlns.oracle.com/adf/faces/rich";
+@namespace dvt "http://xmlns.oracle.com/dss/adf/faces";
+
+/*.AFDefaultFontFamily:alias
+  {
+  font-family: Verdana, Tahoma, Helvetica, sans-serif;
+}*/
+.HideDisclosure af|query::disclosure-icon-container
+{
+  display: none;
+  height: 0px;
+  width: 0px;
+}
+
+.HideDisclosure af|query::disclosed-icon
+{
+  display: none;
+}
+
+.HideDisclosure af|query::undisclosed-icon
+{
+  display: none;
+}

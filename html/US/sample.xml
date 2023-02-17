@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:WorkFlowState xmlns:ns1="http://flexagon.com/flexdeploy/workflow/common" xmlns:ns0="http://flexagon.com/flexdeploy/workflowstate">
+  <ns1:Name>Omcs Build Patch</ns1:Name>
+  <ns0:InputState/>
+  <ns1:WorkflowExecutionId>453461</ns1:WorkflowExecutionId>
+  <ns0:StartDate>2023-02-14T08:51:40.245+05:30</ns0:StartDate>
+  <ns0:EndDate>2023-02-14T08:52:11.514+05:30</ns0:EndDate>
+  <ns0:Status>Failure</ns0:Status>
+</ns0:WorkFlowState>
